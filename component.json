@@ -1,5 +1,6 @@
 {
   "name": "hypher-en-us",
+  "version": "0.0.1",
   "scripts": [
     "index.js"
   ]
